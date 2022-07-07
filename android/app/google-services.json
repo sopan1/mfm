@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "863353317592",
+    "firebase_url": "https://arreglatodo-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "arreglatodo-app",
+    "storage_bucket": "arreglatodo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863353317592:android:77cdef2d07b3fd0ad68fad",
+        "android_client_info": {
+          "package_name": "com.arreglatodo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863353317592-6ecf64ahihh9jdqp4ngbioacbl5ge4nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arreglatodo.app",
+            "certificate_hash": "bd0b21b258f4fe7020a00ba6b89de4b40ae97818"
+          }
+        },
+        {
+          "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpb_GfTs1fTe_7Rpxdkr-XlZPhsnXM5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863353317592-6atpd591jer90grsqtb1msp8oo9taguj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arreglatodo.app",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863353317592:android:041974cfb1f33339d68fad",
+        "android_client_info": {
+          "package_name": "com.arreglatodo.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863353317592-e6jf2n5bttjqklaqpk19f32k47bka23g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arreglatodo.provider",
+            "certificate_hash": "bd0b21b258f4fe7020a00ba6b89de4b40ae97818"
+          }
+        },
+        {
+          "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpb_GfTs1fTe_7Rpxdkr-XlZPhsnXM5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863353317592-6atpd591jer90grsqtb1msp8oo9taguj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arreglatodo.app",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863353317592:android:3a63ddbdd45eea93d68fad",
+        "android_client_info": {
+          "package_name": "com.arreglatodo.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863353317592-mjh9det2leb4uoeqvpik3c6mufdomdk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arreglatodo.vendor",
+            "certificate_hash": "bd0b21b258f4fe7020a00ba6b89de4b40ae97818"
+          }
+        },
+        {
+          "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpb_GfTs1fTe_7Rpxdkr-XlZPhsnXM5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863353317592-4a4v9bsc2q9b6hjib664k45udj3ucv7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863353317592-6atpd591jer90grsqtb1msp8oo9taguj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arreglatodo.app",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
